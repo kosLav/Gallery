@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/bottom_menu_main"
+        android:icon="@drawable/ic_home_line"
+        android:id="@+id/bottom_navBar_home"/>
+    <item android:title="@string/bottom_menu_favorit"
+        android:icon="@drawable/ic_heart_line"
+        android:id="@+id/bottom_navBar_favorites"/>
+    <item android:title="@string/bottom_menu_profile"
+        android:icon="@drawable/ic_emotion_line"
+        android:id="@+id/bottom_navBar_profile"/>
+</menu>
